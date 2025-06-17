@@ -6,7 +6,7 @@ var maxProfit = function(prices) {
             total += diff; 
         }
     }
-    return total;
+    return total; 
 
 };
 
